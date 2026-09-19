@@ -1,5 +1,5 @@
 # SHREYASH-24BCY10138-VITYARTHI-PROJECT
-# SecureVault — Secure File Encryption & Password Management System (GUI Edition)
+# SecureVault — Secure File Encryption & Password Management System 
 
 A desktop Java Swing application (cyber-security domain) with a modern,
 web-app-style interface: gradient background, card-based login/register
